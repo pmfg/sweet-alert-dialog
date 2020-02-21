@@ -42,9 +42,9 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
 **Maven**
 
     <dependency>
-      <groupId>com.github.f0ris.sweetalert</groupId>
-      <artifactId>library</artifactId>
-      <version>1.6.2</version>
+      <groupId>com.github.pmfg</groupId>
+      <artifactId>sweet-alert-dialog</artifactId>
+      <version>1.7.1</version>
       <type>aar</type>
     </dependency>
 
@@ -55,7 +55,7 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
     }
 
     dependencies {
-        implementation 'com.github.f0ris.sweetalert:library:1.6.2'
+        implementation 'com.github.pmfg:sweet-alert-dialog:1.7.1'
     }
 
 ## Usage
