@@ -53,6 +53,13 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
     repositories {
         mavenCentral()
     }
+    
+    allprojects {
+        repositories {
+            ...
+            maven { url "https://jitpack.io" }
+        }
+    }
 
     dependencies {
         implementation 'com.github.pmfg:sweet-alert-dialog:1.7.1'
@@ -204,8 +211,6 @@ Disable button
             }
         })
         .show();
-
-[more android tech shares: pedant.cn](http://www.pedant.cn)
 
 ## License
 
