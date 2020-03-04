@@ -27,8 +27,6 @@ Some screenshots of the new features:
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sweet%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
 
-[中文版](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
-
 Inspired by JavaScript [SweetAlert](http://tristanedwards.me/sweetalert)
 
 [Demo Download](https://github.com/F0RIS/sweet-alert-dialog/releases/download/1.5.3/sample-v1.5.3.apk)
